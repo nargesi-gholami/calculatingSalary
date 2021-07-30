@@ -1,0 +1,13 @@
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\bin\Debug\netcoreapp3.1\calculate_salary.exe
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\bin\Debug\netcoreapp3.1\calculate_salary.deps.json
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\bin\Debug\netcoreapp3.1\calculate_salary.runtimeconfig.json
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\bin\Debug\netcoreapp3.1\calculate_salary.runtimeconfig.dev.json
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\bin\Debug\netcoreapp3.1\calculate_salary.dll
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\bin\Debug\netcoreapp3.1\calculate_salary.pdb
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\obj\Debug\netcoreapp3.1\calculate_salary.csproj.AssemblyReference.cache
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\obj\Debug\netcoreapp3.1\calculate_salary.AssemblyInfoInputs.cache
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\obj\Debug\netcoreapp3.1\calculate_salary.AssemblyInfo.cs
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\obj\Debug\netcoreapp3.1\calculate_salary.csproj.CoreCompileInputs.cache
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\obj\Debug\netcoreapp3.1\calculate_salary.dll
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\obj\Debug\netcoreapp3.1\calculate_salary.pdb
+C:\Users\Gholami\source\repos\calculate_salary\calculate_salary\obj\Debug\netcoreapp3.1\calculate_salary.genruntimeconfig.cache
